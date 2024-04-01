@@ -101,7 +101,6 @@ class LogisticRegression(object):
 		    grad (np.ndarray): (D + 1, 1) numpy array,
 		        the gradient of the loss function with respect to the parameters theta.
 		
-		HINT: Matrix multiplication takes care of the summation part of the definition.
 		"""
         N, D = x_aug.shape[0], x_aug.shape[1]
         gradient = np.zeros((D, 1))
@@ -199,8 +198,6 @@ class LogisticRegression(object):
         ndarray, x_val: np.ndarray, y_val: np.ndarray, theta: np.ndarray,
         epoch: int):
         """
-        PROVIDED TO STUDENTS
-
         Updates lists of training loss, training accuracy, validation loss, and validation accuracy
 
         Args:
@@ -228,8 +225,6 @@ class LogisticRegression(object):
     def plot_loss(self, train_loss_list: List[float]=None, val_loss_list:
         List[float]=None, epoch_list: List[int]=None) ->None:
         """
-        PROVIDED TO STUDENTS
-
         Plot the loss of the train data and the loss of the test data.
 
         Args:
@@ -258,8 +253,6 @@ class LogisticRegression(object):
     def plot_accuracy(self, train_acc_list: List[float]=None, val_acc_list:
         List[float]=None, epoch_list: List[int]=None) ->None:
         """
-        PROVIDED TO STUDENTS
-
         Plot the accuracy of the train data and the accuracy of the test data.
 
         Args:
