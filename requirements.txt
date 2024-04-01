@@ -1,0 +1,10 @@
+pandas=2.1.4
+numpy=1.24.3
+scikit-learn=1.3.0
+plotly=5.9.0
+matplotlib=3.8.0
+requests=2.31.0
+bs4=4.12.2
+requests_cache=1.2.0
+re=2.2.1
+openmeteo_requests
