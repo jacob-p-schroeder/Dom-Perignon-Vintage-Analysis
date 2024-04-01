@@ -1,7 +1,7 @@
 # CX4240-Project
 Project repository for CX4240 Project
 
-Authors: Jacob Schroeder
+Authors: Jacob Schroeder, Skye Solomon, Melak Alemu
 
 ## Introduction
 Dom Pérignon is a renowned brand of vintage Champagne produced by the French Champagne house Moët & Chandon, which is a part of the luxury goods company LVMH (Louis Vuitton Moët Hennessy). It is named after Dom Pérignon, a Benedictine monk who made important contributions to the production and quality of Champagne in the 17th century.
