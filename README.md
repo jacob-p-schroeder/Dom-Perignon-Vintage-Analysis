@@ -14,3 +14,23 @@ Dom Pérignon is often regarded as one of the finest and most prestigious Champa
 
 ## Motivation
 The short answer here is curiosity. Dom Pérignon is not produced every year. Only certain years produce a grape of high enough quality that they release a batch of champagne. The last vintage was released in 2013. Can we use different weather data along with machine learning classifiers to predict which new years will yield Dom Pérignon vintages.
+
+## Data
+
+### Features
+
+### Labels
+
+## Pre-processing
+
+## Supervised Learning Models
+
+### Support Vector Machines (SVM)
+
+### Random Forest
+
+#### Decision Tree
+
+### Logistic Regression
+
+#### Logistic Regression with Gradient Descent 
