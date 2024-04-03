@@ -12,6 +12,8 @@ The short answer here is curiosity. Dom Pérignon is not produced every year. On
 
 ## Data
 
+Data is collected from two sources. The first source is where all of the necessary features were collected from. This is all of the weather data collected from the Open-Meteo API[https://open-meteo.com/]
+
 ### Features
 
 ### Labels
