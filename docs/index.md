@@ -12,7 +12,7 @@ The short answer here is curiosity. Dom Pérignon is not produced every year. On
 
 ## Data
 
-Data is collected from two sources. The first source is where all of the necessary features were collected from. This is all of the weather data collected from the Open-Meteo API[https://open-meteo.com/]
+Data is collected from two sources. The first source is where all of the necessary features were collected from. This is all of the weather data collected from the [Open-Meteo API](https://open-meteo.com/). Data collected from the source include seven different parameters for every day of the year from January 1, 1940 until December 31, 2023. The labels were webscraped from the [Dom Perignon Wikipedia Page](https://en.wikipedia.org/wiki/Dom_P%C3%A9rignon).
 
 ### Features
 
