@@ -80,10 +80,6 @@ Entropy is a crucial concept in decision trees, guiding the process of feature s
 
 In fitting the model, the first step was to determine the optimal depth of the decision tree. Fitting a validation curve involves training decision trees with varying depths and evaluating their performance on a validation dataset. By plotting the relationship between tree depth and model performance metrics, such as accuracy or error rate, practitioners can identify the optimal depth that maximizes predictive power while mitigating overfitting.
 
-```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
-knitr::include_graphics("validation_curve.png")
-```
-
 ![image](validation_curve.png)
 
 Based on the above validation curve, the optimal depth was determined to be three. This fits logically with the data have three different features. 
@@ -95,9 +91,7 @@ Fitting a random forest using Scikit-learn yields multiple decision trees which 
 
 A sample resulting decision is as follows:
 
-```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
-knitr::include_graphics("decision_tree.png")
-```
+![image](decision_tree.png)
 
 This model yielded an incredibly high training accuracy; however, it struggles to perform on the testing data. This could be due to overfitting. Overfitting happens when a model memorizes the training data's noise instead of learning its patterns well. This makes the model perform well on training data but poorly on new, unseen data. To avoid this, we use techniques like regularization, cross-validation, and adjusting model complexity, which help the model generalize better to new data.
 
@@ -120,9 +114,7 @@ $$
 
 Graphing the decision boundary appears as follows:
 
-```{r, echo=FALSE, out.width="70%", fig.align = 'center'}
-knitr::include_graphics("logistic_regression.png")
-```
+![image](logistic_regression.png)
 
 # Discussion
 
