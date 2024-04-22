@@ -84,6 +84,8 @@ In fitting the model, the first step was to determine the optimal depth of the d
 knitr::include_graphics("validation_curve.png")
 ```
 
+![image](validation_curve.png)
+
 Based on the above validation curve, the optimal depth was determined to be three. This fits logically with the data have three different features. 
 
 Fitting a random forest using Scikit-learn yields multiple decision trees which when combined gives the following results:
