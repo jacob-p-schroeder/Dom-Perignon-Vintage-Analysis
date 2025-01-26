@@ -128,7 +128,7 @@ Passing in the weather data from 2014 - 2023 into the logistic regression model 
 
 Additional analysis may involve fine-tuning the selection and quantity of features utilized in the prediction process. Neural networks offer a promising alternative model, boasting improved hyperparameter optimization capabilities. The implementation of deep neural networks could potentially yield even greater accuracy, although it may come with the trade-off of increased time and computational resources.
 
-[Project GitHub Repository Link](https://github.gatech.edu/jschroeder39/CX4240-Project)
+[Project GitHub Repository Link](https://github.com/jacob-p-schroeder/Dom-Perignon-Vintage-Analysis)
 
 # References
 
